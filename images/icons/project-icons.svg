@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rocket Icon -->
+  <g transform="translate(50, 100)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <path d="M50,15 C35,15 25,40 25,65 L35,65 L35,75 L65,75 L65,65 L75,65 C75,40 65,15 50,15 Z" fill="#ff6b6b" />
+    <circle cx="50" cy="40" r="10" fill="#ffffff" />
+    <path d="M35,75 L35,85 L45,85 L45,75 Z" fill="#ff6b6b" />
+    <path d="M55,75 L55,85 L65,85 L65,75 Z" fill="#ff6b6b" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Rocket</text>
+  </g>
+  
+  <!-- Lock Icon -->
+  <g transform="translate(200, 100)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <rect x="35" y="45" width="30" height="25" rx="2" fill="#4dabf7" />
+    <rect x="40" y="30" width="20" height="20" rx="10" stroke="#4dabf7" stroke-width="6" fill="none" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Security</text>
+  </g>
+  
+  <!-- Sync Icon -->
+  <g transform="translate(350, 100)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <path d="M50,25 L60,35 L50,45 L50,35 C40,35 30,45 30,55 C30,65 40,75 50,75 L50,85 C35,85 20,70 20,55 C20,40 35,25 50,25 Z" fill="#51cf66" />
+    <path d="M50,65 L40,55 L50,45 L50,55 C60,55 70,45 70,35 C70,25 60,15 50,15 L50,5 C65,5 80,20 80,35 C80,50 65,65 50,65 Z" fill="#51cf66" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Sync</text>
+  </g>
+  
+  <!-- Chart Icon -->
+  <g transform="translate(500, 100)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <rect x="30" y="60" width="10" height="15" fill="#845ef7" />
+    <rect x="45" y="50" width="10" height="25" fill="#845ef7" />
+    <rect x="60" y="40" width="10" height="35" fill="#845ef7" />
+    <path d="M25,35 L75,35 M25,45 L75,45 M25,55 L75,55 M25,65 L75,65" stroke="#ddd" stroke-width="1" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Analytics</text>
+  </g>
+  
+  <!-- Globe Icon -->
+  <g transform="translate(650, 100)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <circle cx="50" cy="50" r="30" fill="none" stroke="#339af0" stroke-width="3" />
+    <path d="M20,50 L80,50 M50,20 L50,80" stroke="#339af0" stroke-width="3" />
+    <path d="M30,30 Q50,20 70,30 Q80,50 70,70 Q50,80 30,70 Q20,50, 30,30" stroke="#339af0" stroke-width="3" fill="none" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Global</text>
+  </g>
+  
+  <!-- Code Icon -->
+  <g transform="translate(50, 250)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <path d="M35,40 L20,50 L35,60 M65,40 L80,50 L65,60" stroke="#e64980" stroke-width="3" fill="none" />
+    <path d="M55,30 L45,70" stroke="#e64980" stroke-width="3" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Code</text>
+  </g>
+  
+  <!-- Gear Icon -->
+  <g transform="translate(200, 250)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <circle cx="50" cy="50" r="15" fill="none" stroke="#495057" stroke-width="3" />
+    <path d="M50,25 L54,30 L54,38 L46,38 L46,30 Z" fill="#495057" />
+    <path d="M50,75 L54,70 L54,62 L46,62 L46,70 Z" fill="#495057" />
+    <path d="M25,50 L30,54 L38,54 L38,46 L30,46 Z" fill="#495057" />
+    <path d="M75,50 L70,54 L62,54 L62,46 L70,46 Z" fill="#495057" />
+    <path d="M32,32 L36,36 L42,30 L38,26 Z" fill="#495057" />
+    <path d="M68,68 L64,64 L58,70 L62,74 Z" fill="#495057" />
+    <path d="M32,68 L36,64 L30,58 L26,62 Z" fill="#495057" />
+    <path d="M68,32 L64,36 L70,42 L74,38 Z" fill="#495057" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Settings</text>
+  </g>
+  
+  <!-- Chat Icon -->
+  <g transform="translate(350, 250)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <path d="M30,35 L70,35 L70,60 L55,60 L50,70 L45,60 L30,60 Z" fill="#fab005" />
+    <circle cx="40" cy="47.5" r="3" fill="white" />
+    <circle cx="50" cy="47.5" r="3" fill="white" />
+    <circle cx="60" cy="47.5" r="3" fill="white" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Support</text>
+  </g>
+  
+  <!-- Document Icon -->
+  <g transform="translate(500, 250)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <path d="M35,25 L55,25 L65,35 L65,75 L35,75 Z" fill="white" stroke="#20c997" stroke-width="2" />
+    <path d="M55,25 L55,35 L65,35" fill="none" stroke="#20c997" stroke-width="2" />
+    <path d="M40,45 L60,45 M40,55 L60,55 M40,65 L55,65" stroke="#20c997" stroke-width="2" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Document</text>
+  </g>
+  
+  <!-- People Icon -->
+  <g transform="translate(650, 250)">
+    <circle cx="50" cy="50" r="50" fill="#f0f0f0" />
+    <circle cx="50" cy="40" r="12" fill="#fd7e14" />
+    <path d="M30,75 C30,60 70,60 70,75" fill="#fd7e14" />
+    <circle cx="30" cy="45" r="8" fill="#fd7e14" />
+    <path d="M15,70 C15,60 45,60 40,70" fill="#fd7e14" />
+    <circle cx="70" cy="45" r="8" fill="#fd7e14" />
+    <path d="M85,70 C85,60 55,60 60,70" fill="#fd7e14" />
+    <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="12">Community</text>
+  </g>
+</svg>
